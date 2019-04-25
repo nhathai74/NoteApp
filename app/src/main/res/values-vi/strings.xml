@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="empty_note">Bạn chưa có ghi chú nào! Vui lòng tạo thêm ghi chú mới ngay!</string>
+</resources>

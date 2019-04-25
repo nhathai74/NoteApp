@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="empty_note">You don\'t have any notes. Please add! Add more notes to check app!!!</string>
+</resources>
